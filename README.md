@@ -30,8 +30,7 @@ New - SystemUI,apk
 New - Settings.apk
 (but I will work on it more)
 New - Apps for v0.3.1 - https://mega.co.nz/#!XgwXDACD!sxuC2mYoPkmH_G0pqeSA4MHtlH5E_PiQgxF1wYvpC7Q
-(those apps are for status bar bug,
-ability to crack TitnaiumBackup, etc)
+(those apps are for status bar bug,ability to crack TitnaiumBackup, etc)
 This version might be stable.
 now, there is just bug with statusbar
 

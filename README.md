@@ -87,4 +87,7 @@ so i'll keep this  forum updated
 
 
 You can find all files on:
-HERE - https://mega.co.nz/#fm/fphDyawZ
+https://mega.co.nz/#fm/fphDyawZ
+
+Link to my modaco forum:
+http://www.modaco.com/topic/374389-huawei-sonic-minimal-rom/

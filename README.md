@@ -24,15 +24,15 @@ Status (27.1. 9h PM): Nothing, i'm going to school.
 
 ############################################
 
-Changelog v0.3.1:
-New - ADW Launcher
-New - SystemUI,apk
+Changelog v0.3.1: 
+New - ADW Launcher, 
+New - SystemUI,apk, 
 New - Settings.apk
-(but I will work on it more)
-New - Apps for v0.3.1 - https://mega.co.nz/#!XgwXDACD!sxuC2mYoPkmH_G0pqeSA4MHtlH5E_PiQgxF1wYvpC7Q
-(those apps are for status bar bug,ability to crack TitnaiumBackup, etc)
-This version might be stable.
-now, there is just bug with statusbar
+(but I will work on it more), 
+New - Apps for v0.3.1 - https://mega.co.nz/#!XgwXDACD!sxuC2mYoPkmH_G0pqeSA4MHtlH5E_PiQgxF1wYvpC7Q 
+(those apps are for status bar bug,ability to crack TitnaiumBackup, etc), 
+This version might be stable. 
+Now, there is just bug with statusbar. 
 
 Link to v0.3.1:
 HERE - https://mega.co.nz/#!r1ojiJLT!tFJnrQNoBlDDVaAUud1qjgQtugEa90LX8dp9D92M8IA
@@ -40,22 +40,22 @@ HERE - https://mega.co.nz/#!r1ojiJLT!tFJnrQNoBlDDVaAUud1qjgQtugEa90LX8dp9D92M8IA
 ############################################
 
 Changelog v0.3:
-New - kernel (by Lucky76) 
-New - SystemUI.apk
-Update - Updater-script
-New - Boot image
-Bugfix - wifi working
+New - kernel (by Lucky76), 
+New - SystemUI.apk, 
+Update - Updater-script, 
+New - Boot image, 
+Bugfix - wifi working, 
 New bug - no statusbar
-(download from PlayStore  :) )
+(download from PlayStore)
 
 
 ############################################
 
 Changelog v0.2:
-Added - overclockable kernel
-Added - Lucky patcher
-Added - Titanium backup
-Added - Pro music player
+Added - overclockable kernel, 
+Added - Lucky patcher, 
+Added - Titanium backup, 
+Added - Pro music player, 
 
 Known bugs v0.2:
 wifi not working

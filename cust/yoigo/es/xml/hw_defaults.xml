@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2009, The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); 
+ * you may not use this file except in compliance with the License. 
+ * You may obtain a copy of the License at 
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0 
+ *
+ * Unless required by applicable law or agreed to in writing, software 
+ * distributed under the License is distributed on an "AS IS" BASIS, 
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. 
+ * See the License for the specific language governing permissions and 
+ * limitations under the License.
+ */
+-->
+<resources>
+    <!--DTS2011040900494 yubo 20110409 begin -->
+    <!--DTS2011041406553 yubo 20110416 begin -->
+    <string white_languages="es_ES,en_ES" />
+    <!--DTS2011041406553 yubo 20110416 end -->
+    <string default_selected_languages="es_ES,en_ES" />
+    <string default_customed_apk="com.huawei.launcher2/com.huawei.launcher2.Launcher"/>
+    <string default_input_method="com.android.inputmethod.latin/.LatinIME" />
+    <!--DTS2011040900494 yubo 20110409 end -->
+    <!-- DTS2011040902337 yubo 20110409 begin -->
+    <bool power_saving_on="true"/>
+    <!-- DTS2010092801811 config location method for GPSXtra y142196&q170606 20101014 begin -->
+    <!-- location_method :0(xtra checkbox is default unchecked), 3(xtra checkbox is default checked)-->
+    <integer location_method="0"/>
+    <!-- DTS2010092801811 config location method for GPSXtra y142196&q170606 20101014 end -->
+    <!-- DTS2011012706064 config display widget number and order for toolbox h178881 20101014 begin -->
+    <!-- Show settings preference of toolbox or not. If value of toolBoxSwitch is set to "1", then value of toolBoxDisplayWidgetNameArray must also available. -->
+    <!-- DTS2011040701444 zhoujie 20110407 begin -->
+    <integer toolBoxSwitch="1"/>
+    <string toolBoxDisplayWidgetNameArray="com.huawei.android.toolbox,com.huawei.android.toolbox.ToolBoxProvider"/>
+    <!-- DTS2011040701444 zhoujie 20110407 end -->
+    <!-- DTS2011012706064 config display widget number and order for toolbox h178881 20101014 end -->
+    <!-- DTS2011021801344 tiandazhang 20110218 begin -->
+    <!-- Net music for MediaCenter is available when value is "true" -->
+    <string mediacenter_has_netmusic="false" />
+    <!-- DTS2011021801344 tiandazhang 20110218 end -->
+    <!-- DTS2011031900393 wangzhen 20110317 begin --> 
+    <!-- When remote hand up ,whether screen should wakeup or not ,here we set value is wakeup-->
+    <bool hw_call_wakeup="true"/>
+    <!-- DTS2011031900393 wangzhen 20110317 end --> 
+    <!-- DTS2011040600592  wangzhen 20110329 begin --> 
+    <!-- When remote answer ,whether vibrate should turn on  or not ,here we set value is turn on-->
+    <bool hw_vibrate_on="true"/>
+    <!-- DTS2011040600592  wangzhen 20110329 end --> 
+    <!-- DTS2011040902337 yubo 20110409 end -->
+    <!-- DTS2011041800540 gengshengen 20110509 begin --> 
+    <bool hw_stop_fm="true"/>
+    <!-- DTS2011041800540 gengshengen 20110509 end -->     
+</resources>
+

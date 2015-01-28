@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<!--
+     Browser_config.xml is used to config some setting information, for example,
+     homepage and bookmarks.
+     Homepage format:
+     <homepage url="http://www.google.com" />
+     Which must begin with tag "homepage", with "url", which can not be changed
+          
+     bookmark format:
+     <bookmark title="test" url="www.test1.com"/>
+     Which must begin with tag "bookmark", with "title" and "url", which can not be changed
+     
+-->
+<browser_config version="1">
+    <!--DTS2011040900494 yubo 20110409 begin -->
+    <homepage url="http://movil.yoigo.es"/>
+    <bookmark title="Google" url="http://google.com"/>
+    <bookmark title="Sala de Música" url="http://www.yoigo.com/surfport/sala_de_musica"/>
+    <bookmark title="Juegos" url="http://www.yoigo.com/surfport/juegos"/>
+    <!--DTS2011040900494 yubo 20110409 end -->
+</browser_config>

@@ -24,7 +24,7 @@ I take no responsibility for any brick of your Sonic U8650, then do so at your o
 
 Minimal Rom v0.x 
 
-Status (2. 2. 1h PM): All problems solved! :)
+##Status (2. 2. 1h PM): All problems solved! :)
 
 
 
@@ -32,7 +32,7 @@ Status (2. 2. 1h PM): All problems solved! :)
 
 
 
-Changelog v0.3.2:
+##Changelog v0.3.2:
 New -SystemUI.apk
 New- Framework-res.apk
 = STATUSBAR FINALY WORKING!!
@@ -42,7 +42,7 @@ From now, I can start modify
 settings, power menu
 etc. ;)
 
-Link: soon
+Link: https://mega.co.nz/#!24oQzLTT!4MMt3nWHVmJ9tSVRiZKRu4-WBjFpNIjkMPF4ZrVfkKI
 
 
 
@@ -50,7 +50,7 @@ Link: soon
 
 
 
-Changelog v0.3.1: 
+##Changelog v0.3.1: 
 New - ADW Launcher, 
 New - SystemUI,apk, 
 New - Settings.apk
@@ -69,7 +69,7 @@ HERE - https://mega.co.nz/#!r1ojiJLT!tFJnrQNoBlDDVaAUud1qjgQtugEa90LX8dp9D92M8IA
 
 
 
-Changelog v0.3:
+##Changelog v0.3:
 New - kernel (by Lucky76), 
 New - SystemUI.apk, 
 Update - Updater-script, 
@@ -85,7 +85,7 @@ New bug - no statusbar
 
 
 
-Changelog v0.2:
+##Changelog v0.2:
 Added - overclockable kernel, 
 Added - Lucky patcher, 
 Added - Titanium backup, 
@@ -100,7 +100,7 @@ wifi not working
 ############################################
 
 
-How to:
+#How to:
 
 1.
 You have to download RECOVERY + ROM
@@ -124,8 +124,8 @@ If any problem report to me, i'm using this rom too,
 so i'll keep this  forum updated
 
 
-You can find all files on:
+##You can find all files on:
 https://mega.co.nz/#fm/fphDyawZ
 
-Link to my modaco forum:
+##Link to my modaco forum:
 http://www.modaco.com/topic/374389-huawei-sonic-minimal-rom/

@@ -20,7 +20,21 @@ I take no responsibility for any brick of your Sonic U8650, then do so at your o
 
 Minimal Rom v0.x 
 
-Status (27.1. 9h PM): Nothing, i'm going to school.
+Status (2. 2. 1h PM): All problems solved! :)
+
+###########################################
+
+Changelog v0.3.2:
+New -SystemUI.apk
+New- Framework-res.apk
+= STATUSBAR FINALY WORKING!!
+(you dont need to install SideBar launcher + popup notifier from "apps")
+
+From now, I can start modify 
+settings, power menu
+etc. ;)
+
+Link: soon
 
 ############################################
 

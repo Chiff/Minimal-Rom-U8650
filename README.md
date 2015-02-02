@@ -1,9 +1,13 @@
 # MinimalRomU8650
 Minimal Custom Rom for Huawei Sonic u8650
 
+
+
 ##########################################################
 UNDER DEVELOPPEMENT
 ##########################################################
+
+
 
 
 
@@ -22,7 +26,11 @@ Minimal Rom v0.x
 
 Status (2. 2. 1h PM): All problems solved! :)
 
+
+
 ###########################################
+
+
 
 Changelog v0.3.2:
 New -SystemUI.apk
@@ -36,7 +44,11 @@ etc. ;)
 
 Link: soon
 
+
+
 ############################################
+
+
 
 Changelog v0.3.1: 
 New - ADW Launcher, 
@@ -51,7 +63,11 @@ Now, there is just bug with statusbar.
 Link to v0.3.1:
 HERE - https://mega.co.nz/#!r1ojiJLT!tFJnrQNoBlDDVaAUud1qjgQtugEa90LX8dp9D92M8IA
 
+
+
 ############################################
+
+
 
 Changelog v0.3:
 New - kernel (by Lucky76), 
@@ -63,7 +79,11 @@ New bug - no statusbar
 (download from PlayStore)
 
 
+
+
 ############################################
+
+
 
 Changelog v0.2:
 Added - overclockable kernel, 
@@ -75,7 +95,11 @@ Known bugs v0.2:
 wifi not working
 
 
+
+
 ############################################
+
+
 How to:
 
 1.

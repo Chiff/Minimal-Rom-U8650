@@ -4,7 +4,7 @@ Minimal Custom Rom for Huawei Sonic u8650
 
 
 ##########################################################
-UNDER DEVELOPPEMENT
+ABANDONED BUT DONE, ENJOY :)
 ##########################################################
 
 
